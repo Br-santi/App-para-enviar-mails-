@@ -1,0 +1,20 @@
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\bin\Debug\gestorMail.exe.config
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\bin\Debug\gestorMail.exe
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\bin\Debug\gestorMail.pdb
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.Form1.resources
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.Properties.Resources.resources
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.exe
+C:\Users\bruno\Desktop\nose\gestorMail\gestorMail\obj\Debug\gestorMail.pdb
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\bin\Debug\gestorMail.exe.config
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\bin\Debug\gestorMail.exe
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\bin\Debug\gestorMail.pdb
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.Form1.resources
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.Properties.Resources.resources
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.exe
+C:\Users\bruno\Desktop\T.I Mail - 6to 1ra - Bruno Pennacchioni y Paula Farias\gestorMail\gestorMail\obj\Debug\gestorMail.pdb
